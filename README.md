@@ -1,3 +1,2 @@
-Add RoomDB entity and DAO classes
-Implements User, Category, and Expense entities with DAO interfaces.
-
+Design login and registration screens
+Adds layout XML files and connects to RoomDB.
