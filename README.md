@@ -1,2 +1,2 @@
-displaying all category-wise with expense totals
-Used Room queries to add up all the expenses by category.
+Fixing any layout issues and improve constraint usage
+Resolveingdesign editor errors and visual bugs.
