@@ -1,2 +1,2 @@
-Creating a goal setting for functionality
-Adds UI for the setting of monthly min/max budget goals.
+ The Implementation of any expenses that are filtered by date range
+Adding logic and UI for selectiion start/end dates.
