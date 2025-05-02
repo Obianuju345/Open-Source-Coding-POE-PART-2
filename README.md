@@ -1,1 +1,2 @@
-# Open-Source-Coding-POE-PART-2
+Initial commit
+Sets up the basic Android Studio project structure.
